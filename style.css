@@ -82,20 +82,20 @@ p{
 .pageTwo{
     background: url("prometey-sanchez-noskov-340992-unsplash.jpg");
     background-size: cover;
-    height:100%;
+    height:1200px;
     padding-top: 5%; 
 }
 
 .pageThree{
     background: url("landscape-3361927_1920.jpg");
     background-size: cover;
-    height:100%;
+    height:1200px;
     padding-top: 5%; 
 }
 
 .pageFour{
     background: url("contact-us-2993000_1920.jpg");
     background-size: cover;
-    height:100%;
+    height:1200px;
     padding-top: 5%; 
 }
