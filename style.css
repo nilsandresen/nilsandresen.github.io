@@ -7,9 +7,7 @@
     padding-right:0;
    }
 
-#twitterIcon{
-color:rgb(0, 172, 237);
-}
+
 
 #githubIcon{
     color:rgb(102, 43, 129);
@@ -19,9 +17,6 @@ color:rgb(0, 172, 237);
     color:#fc6d26;
 }
 
-#facebookIcon{
-    color:rgb(59, 89, 163);
-}
 
 .fa{
     padding-right:5%;
@@ -46,6 +41,7 @@ color:rgb(0, 172, 237);
     display: inline;
   
 }
+
 
 body{
     background-color: white;
@@ -75,7 +71,7 @@ p{
     margin: auto;    
     display: block;
     padding-top: 20%;
-    
+
 }
 
 .btn-default{
