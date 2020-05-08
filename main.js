@@ -4,4 +4,7 @@ $(document).ready(function () {
   });
   
   
- 
+const btn = document.querySelector(".test");
+
+
+btn.addEventListener('click', () => console.log('test'));
